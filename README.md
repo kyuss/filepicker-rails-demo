@@ -4,7 +4,7 @@
 
 ```
   bundle install
-  rake db:migrate
+  bundle exec rake db:migrate
 ```
 
 ### Running
